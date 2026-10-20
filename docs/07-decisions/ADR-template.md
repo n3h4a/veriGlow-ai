@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Status** | Proposed · Accepted · Deprecated · Superseded by [ADR-XXXX](ADR-XXXX.md) |
+| **Status** | Proposed · Accepted · Deprecated · Superseded by `ADR-XXXX` (link it once it exists) |
 | **Date** | YYYY-MM-DD |
 | **Deciders** | @handle |
 

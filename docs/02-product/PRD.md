@@ -3,8 +3,8 @@
 | | |
 |---|---|
 | **Status** | ⏳ Not started |
-| **Phase** | 3 — Product Requirements |
-| **Depends on** | Phase 1–2 research |
+| **Phase** | 9 — Product Requirements (Gate B) |
+| **Depends on** | Phases 1–8 (research, personas, journeys, prioritisation) |
 | **Version** | 0.0 |
 
 ---

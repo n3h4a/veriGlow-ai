@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Status** | ⏳ Not started |
-| **Phase** | 6 — Testing & Launch |
+| **Phase** | 20 — Deployment |
 | **Depends on** | [Architecture](../03-design/architecture.md) |
 
 ---

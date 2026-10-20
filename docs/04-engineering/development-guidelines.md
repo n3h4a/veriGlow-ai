@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Status** | 🟡 Draft — workflow rules apply now; code rules finalised once the stack is chosen |
-| **Phase** | 5 — MVP Development |
+| **Phase** | 15 — Backend Planning (finalised); applies from Phase 18 |
 
 ---
 

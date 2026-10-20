@@ -5,7 +5,7 @@
 | **Status** | ✅ Complete (v1) |
 | **Owner** | @n3h4a |
 | **Last updated** | 2026-10-20 |
-| **Next review** | After Phase 2 user interviews |
+| **Next review** | After Phase 4 user interviews |
 
 ---
 
@@ -45,7 +45,7 @@ Beauty products differ from most counterfeit categories (bags, apparel) in one i
 | E2 | In the same survey, **cosmetics** and **fragrances/perfumes** were tied as the most-reported fake categories (35% each among those who received fakes). | Same as E1 | Medium — supports beauty as a high-risk category |
 | E3 | The OECD and EUIPO estimated global trade in counterfeit goods at **USD 467 billion** and framed it as a consumer-safety risk. | [OECD press release (May 2025)](https://www.oecd.org/en/about/news/press-releases/2025/05/global-trade-in-fake-goods-reached-USD-467-billion-posing-risks-to-consumer-safety-and-compromising-intellectual-property.html) | Strong source, but **not beauty-specific** |
 
-### Evidence gaps (to close in Phases 1–2)
+### Evidence gaps (to close in Phases 2–4)
 
 - [ ] Recent (2024+) data specific to **beauty** counterfeits in online marketplaces.
 - [ ] Data on **expired / near-expiry** products sold online — currently anecdotal.
@@ -86,7 +86,7 @@ Each workaround is **manual, fragmented, or happens after purchase** — this is
 |---|---|---|---|
 | A1 | Buyers worry about authenticity *before* purchase, not only after | High | Interviews |
 | A2 | Buyers will take an extra step (paste a link, upload a photo) to get a trust signal | High | Interviews, prototype test |
-| A3 | Useful trust signals can be derived from public listing data and photos | High | Technical spike in Phase 4 |
+| A3 | Useful trust signals can be derived from public listing data and photos | High | Feasibility spike in Phase 5 |
 | A4 | Authenticity, expiry, and seller trust can be combined into one understandable signal | Medium | Prototype test |
 | A5 | Young urban online shoppers are the best initial segment | Medium | Market research + interviews |
 

@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Status** | ⏳ Not started |
-| **Phase** | 2 — User Research |
+| **Phase** | 6 — User Personas |
 | **Source** | [04 — User Research](../01-research/04-user-research.md) |
 
 ---

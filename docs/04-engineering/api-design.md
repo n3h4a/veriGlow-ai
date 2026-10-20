@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Status** | ⏳ Not started |
-| **Phase** | 4 — Architecture & Design |
+| **Phase** | 13 — API Design |
 | **Depends on** | [System Design](../03-design/system-design.md) |
 
 ---

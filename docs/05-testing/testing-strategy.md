@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Status** | ⏳ Not started |
-| **Phase** | 5–6 — MVP Development, Testing & Launch |
+| **Phase** | 15 — Backend Planning (strategy); 19 — Testing & Hardening (execution) |
 
 ---
 

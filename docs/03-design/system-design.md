@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Status** | ⏳ Not started |
-| **Phase** | 4 — Architecture & Design |
+| **Phase** | 10 — Architecture Design |
 | **Depends on** | [Architecture](architecture.md) |
 
 ---

@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Status** | ⏳ Not started |
-| **Phase** | 3 — Product Requirements |
+| **Phase** | 14 — Frontend Planning |
 | **Depends on** | [PRD](PRD.md), [User Personas](user-personas.md) |
 
 ---

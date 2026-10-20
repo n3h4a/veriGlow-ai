@@ -3,14 +3,14 @@
 | | |
 |---|---|
 | **Status** | ⏳ Not started |
-| **Phase** | 2 — User Research |
-| **Depends on** | Market research, competitor analysis |
+| **Phase** | 4 — User Research |
+| **Depends on** | [02 — Market Research](02-market-research.md), [03 — Competitor Analysis](03-competitor-analysis.md) |
 
 ---
 
 ## Research Goal
 
-Validate (or reject) assumptions **A1–A5** from [01 — Problem Discovery](01-problem-discovery.md#6-assumptions) with real online beauty buyers.
+Validate (or reject) assumptions **A1–A5** from [01 — Problem Discovery](01-problem-discovery.md#6-assumptions) with real online beauty buyers, and run the must-pass tests **G1–G3** of the validation gate in [03 — Competitor Analysis §13.3](03-competitor-analysis.md#133-validation-gate-4-weeks-no-build) (brand data access, a named payer, frequent and costly doubt).
 
 ## Method
 
@@ -44,6 +44,6 @@ Validate (or reject) assumptions **A1–A5** from [01 — Problem Discovery](01-
 |---|---|---|---|
 | A1 | Buyers worry before purchase | *TBD* | |
 | A2 | Buyers will take an extra step | *TBD* | |
-| A3 | Signals derivable from public data | *Tested in Phase 4* | |
+| A3 | Signals derivable from public data | *Tested in the Phase 5 feasibility spike* | |
 | A4 | One combined signal is understandable | *TBD* | |
 | A5 | Initial segment is correct | *TBD* | |

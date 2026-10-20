@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Status** | ⏳ Not started |
-| **Phase** | 4 — Architecture & Design |
+| **Phase** | 12 — Database Design |
 | **Depends on** | [PRD](../02-product/PRD.md), [System Design](system-design.md) |
 
 ---
