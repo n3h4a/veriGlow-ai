@@ -1,0 +1,64 @@
+# ------------------------------------------------------------
+# VeriGlow-ai .gitignore
+# Covers the likely stack (Python backend, JS/TS frontend) plus
+# common editor/OS noise. Tighten once ADRs settle the stack.
+# ------------------------------------------------------------
+
+# --- Secrets & environment ----------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# --- Python --------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# --- Node / frontend ----------------------------------------
+node_modules/
+.next/
+.vite/
+coverage/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Data & model artifacts (never commit raw user data) ----
+data/
+*.csv.gz
+*.parquet
+*.h5
+*.onnx
+*.pt
+*.pkl
+
+# --- Logs & temp --------------------------------------------
+logs/
+*.log
+tmp/
+.cache/
+
+# --- Editors & OS -------------------------------------------
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
